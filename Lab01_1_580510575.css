@@ -1,0 +1,67 @@
+h1 {
+	text-align: center;
+}
+
+#color_head {
+	background-color: #3b5998 !important;
+}
+
+#text_ {
+	color: white !important;
+	font-family: 'Abril Fatface', cursive;
+}
+
+.sunday_ {
+	color: red;
+	font-family: 'Poiret One', cursive;
+}
+
+.monday_ {
+	color: yellow;
+	font-family: 'Poiret One', cursive;
+}
+
+.tuesday_ {
+	color: #FF69F1;
+	font-family: 'Poiret One', cursive;
+}
+
+.wednesday_ {
+	color: #2C6507;
+	font-family: 'Poiret One', cursive;
+}
+
+.thursday_ {
+	color: orange;
+	font-family: 'Poiret One', cursive;
+}
+
+.friday_ {
+	color: blue;
+	font-family: 'Poiret One', cursive;
+}
+
+.saturday_ {
+	color: purple;
+	font-family: 'Poiret One', cursive;
+}
+
+.generial {
+	color: #135DEF;
+	font-family: 'Bangers', cursive;
+}
+.holiday {
+	color: #B01B21;
+	font-family: 'Bangers', cursive;
+}
+.brith {
+	color: #447128;
+	font-family: 'Bangers', cursive;
+}
+
+.absolute {
+	font-family: 'Kaushan Script', cursive;
+	background-color: #3b5998;
+	text-align: center;
+	margin:  auto;
+}
